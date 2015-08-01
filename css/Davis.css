@@ -1,0 +1,25 @@
+/*reset*/
+a { text-decoration: none;}
+a:hover { text-decoration: underline;}
+h1, h2, h3, h4, h5 { color: #323160;}
+p {	color: #5e5e5e;}
+span { color: #aaa;}
+#navbar { padding-left: 5%;}
+#wrapper {
+  max-width: 800px;
+  margin: 0 auto 20px;
+}
+blockquote {
+  margin: 1em 4em 1em 2em;
+  padding: 0.6em 1em;
+  background: #f1f1f1;
+}
+ul.posts {
+  list-style-type: none;
+  margin-bottom: 2em;
+}
+ul.posts li { line-height: 32px;}
+
+
+
+

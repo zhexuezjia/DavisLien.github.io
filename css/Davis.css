@@ -3,8 +3,10 @@ a { text-decoration: none;}
 a:hover { text-decoration: underline;}
 h1 { font-size: 1.8em;}
 h1, h2, h3, h4, h5 { color: #323160;}
-p {	color: #5e5e5e;}
+p {	color: #666;}
 span { color: #aaa;}
+blockquote {   margin: 1em 4em 1em 2em; padding: 0.6em 1em; background: #f1f1f1;}
+/* reset */
 #navbar { padding-left: 5%;}
 #wrapper {
   max-width: 800px;
@@ -24,4 +26,16 @@ ul.posts li { line-height: 32px;}
 /* 介绍我自己 */
 .myself img { width: 100px; height: 112px;}
 #timeline{ font-size: 1.4em;}
-
+.code-box {
+	margin: 1em 0 1em 3%;
+  border: 1px solid #ddd;
+  border-left-width: 0.4em;
+  background: #fbfbfb;
+  padding: 10px;
+}
+.code {
+	color: #666;
+	line-height: 28px;
+	font-size: 22px;
+	display: inline-block;
+}

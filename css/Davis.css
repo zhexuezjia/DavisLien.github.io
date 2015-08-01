@@ -1,6 +1,7 @@
 /*reset*/
 a { text-decoration: none;}
 a:hover { text-decoration: underline;}
+h1 { font-size: 1.8em;}
 h1, h2, h3, h4, h5 { color: #323160;}
 p {	color: #5e5e5e;}
 span { color: #aaa;}

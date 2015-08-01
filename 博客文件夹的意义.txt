@@ -1,0 +1,8 @@
+于八月一日：
+文件夹的意义：
+achievement：包含我的个人成就；
+Davis：关于我的介绍；
+diary：日记，关于我的思考，所见所闻；
+life-experience：人生的重大事件；
+project：我所做的项目；
+work：主要的工作。

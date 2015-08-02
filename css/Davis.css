@@ -2,8 +2,8 @@
 a { text-decoration: none;}
 a:hover { text-decoration: underline;}
 h1 { font-size: 1.8em;}
-h1, h2, h3, h4, h5 { color: #323160;}
-p {	color: #666; line-height: 32px;}
+h1, h2, h3, h4, h5 { color: #333;}
+p {	color: #666;}
 span { color: #aaa;}
 blockquote {   margin: 1em 4em 1em 2em; padding: 0.6em 1em; background: #f1f1f1;}
 /* reset */

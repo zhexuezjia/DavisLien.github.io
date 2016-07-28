@@ -1,0 +1,17 @@
+*{padding:0px;margin: 0px}
+.title{background: #000;width: 100%;height: 79px;color: #fff;line-height: 79px;}
+.title h1{margin-left: 30px;line-height: 79px;}
+.img img{width:100%;height: 159px;}
+.center{width: 100%;height: 619px;background: #999;}
+.daohang{background: #999;width: 159px;height: 619px;float: left;}
+.daohang ul{margin-left: 45px;margin-top: 30px}
+.daohang a{text-decoration: none;color: #000;font: 18px/24px;}
+.daohang li.a,.daohang li:hover{background: #fff;color: #f60}
+.jieshao{height: 619px;float: left;}
+.gerenjieshao{margin-top: 30px}
+.shuoming{float: left;margin-top: 30px;}
+.tupian{float: left;}
+.tupian img{width: 450px;}
+.wenzi{margin-left: 30px;width: 1240px;float: left;}
+.footer{background: #666;text-align: center;height: 122px;}
+.banquan{text-align: center;}

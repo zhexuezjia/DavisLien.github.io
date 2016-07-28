@@ -1,0 +1,48 @@
+*{margin: 0px;padding: 0px;}
+body{background: #063769;}
+/*头部样式*/
+.header{background:#084A8D;}
+.top{width: 100%;height: 109px;color: #fff;text-align: center;}
+.top font{font-size: 59px;line-height: 109px;font-family: "微软雅黑";}
+.contwe{width: 100%;}
+.contwe form{width: 70%;margin:0 auto;}
+/*搜索框部分样式*/
+.search{width: 100%;height: 59px;background: #063769;}
+.search form{float: right;height: 40px;margin-top: 10px;width: 546px;}
+.search input{background: #fff;font-size: 14px;padding: 10px 10px;}
+.search button{background:#00C;padding: 10px 10px;color: #fff;font-size: 14px;border-color: #00C;}
+/*顶部导航部分样式*/
+.daohang{background:#084A8D;height: 40px;}
+.daohang-NAV{width: 1200px;width: 70%;margin:0 auto;}
+.daohang-NAV ul{}
+.daohang-NAV li{float: left;list-style-type: none;width: 120px;height: 40px;text-align: center;line-height: 40px;}
+.daohang-NAV a{text-decoration: none;color: #fff;font: 18px/24px "微软雅黑";}
+.daohang-NAV li:hover{background:#063769;cursor: pointer;}
+.daohang-NAV a:hover{color:#f60;}
+/*中间布局*/
+.center{width: 70%;margin:0 auto;}
+/*左边的导航栏*/
+.left{width: 159px;float: left;}
+.left-NAV{width: 85px;}
+.left-NAV ul{margin-top: 30px;}
+.left-NAV li{list-style-type: none;line-height: 55px;text-align: center;}
+.left-NAV a{text-decoration: none;color: #fff;font: 18px/24px "微软雅黑";}
+.left-NAV li:hover{background:#084A8D;cursor: pointer;}
+.left-NAV a:hover{color: #f60;}
+/*图文新闻*/
+.news{width: 1173px;;float: left;}
+.right{margin-top: 30px;float: left;}
+.one{overflow: hidden;margin-bottom: 30px;}
+.img1 img{width: 200px;height: 120px;border-style: none;float: left;}
+.words1{font: 18px/24px "微软雅黑";color: #fff;margin-left: 15px;width: 958px;float: left;}
+.two{overflow: hidden;margin-bottom: 30px;}
+.img2 img{width: 200px;height: 120px;border-style: none;float: left;}
+.words2{font: 18px/24px "微软雅黑";color: #fff;margin-left: 15px;width: 958px;float: left;}
+.three{overflow: hidden;margin-bottom: 30px;}
+.img3 img{width: 200px;height: 120px;border-style: none;float: left;}
+.words3{font: 18px/24px "微软雅黑";color: #fff;margin-left: 15px;width: 958px;float: left;}
+.img4 img{width: 200px;height: 120px;border-style: none;float: left;}
+.words4{font: 18px/24px "微软雅黑";color: #fff;margin-left: 15px;width: 958px;float: left;}
+/*网页尾部*/
+.footer{width: 100%;height: 119px;background:#084A8D;float: left;margin-top: 52px;}
+.banquan{color: #fff;text-align: center;height: 99px;margin-top: 10px;}
